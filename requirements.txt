@@ -1,0 +1,3 @@
+pyEDFlib==0.1.38
+pandas==2.2.3
+duckdb==1.1.0
