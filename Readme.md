@@ -13,7 +13,7 @@
 ![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
-*Motivation*
+### <div style="padding: 35px;color:white;margin:10;font-size:200%;text-align:center;display:fill;border-radius:10px;overflow:hidden;background-image: url(https://images.pexels.com/photos/7078619/pexels-photo-7078619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)"><b><span style='color:black'><strong>*Motivation*</strong></span></b> </div> 
 
 Most individuals with epilepsy often suffer from stigma, discrimination, anxiety, and depression. This is largely due to the myths surrounding epilepsy, which can lead to isolation and discourage many from seeking treatment.
 
