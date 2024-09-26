@@ -26,7 +26,7 @@ However, early detection and treatment can help mitigate seizures, ultimately im
 
 ### <div style="padding: 35px;color:white;margin:10;font-size:200%;text-align:center;display:fill;border-radius:10px;overflow:hidden;background-image: url(https://images.pexels.com/photos/7078619/pexels-photo-7078619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)"><b><span style='color:black'><strong> Data description</strong></span></b> </div> 
 
-Data was obtained from the open [CHB-MIT scalp database](https://physionet.org/content/chbmit/1.0.0/) data repository and contains several `EEG signals`. The `EEG` data has columns with the following annotations:
+Data was obtained from the open [Sienna scalp database](https://physionet.org/content/siena-scalp-eeg/1.0.0/PN00/#files-panel) data repository and contains several `EEG signals`. The `EEG` data has columns with the following annotations:
 
 * F - Represents the `frontal`
 * T - Represents the `temporal`
